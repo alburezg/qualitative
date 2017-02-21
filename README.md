@@ -1,2 +1,3 @@
 # qualitative
-Qualitative coding in Shiny
+Template for qualitative text coding in Shiny.
+Run in RStudio. 
